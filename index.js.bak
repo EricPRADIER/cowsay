@@ -1,0 +1,4 @@
+const userInfo = require('./information');
+
+console.log(`Hello I'm ${userInfo.name} from ${userInfo.campus} campus!`);
+
